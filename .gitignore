@@ -1,0 +1,8 @@
+# ignore Pycharm .idea
+.idea/
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# pycharm venv
+venv/
