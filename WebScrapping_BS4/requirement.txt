@@ -1,0 +1,5 @@
+befor run this project will need to install below libraries
+
+beautifulsoup4     4.12.2
+pandas             2.0.1
+requests           2.29.0
