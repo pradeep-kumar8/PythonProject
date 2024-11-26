@@ -39,10 +39,4 @@ This part of the project is designed to practice basic problem-solving skills.
 
 ### Calculate Area: A Python program to calculate the area of various geometric shapes such as circles, squares, and rectangles.
 ### Fibonacci Series: A simple program to generate the Fibonacci series up to a given number, demonstrating basic algorithm implementation.
-Dependencies
-These Python projects may require the following dependencies:
 
-requests: For API interactions (e.g., in the Weather API project).
-beautifulsoup4: For web scraping (in the Web Scraping project).
-pandas: For handling data (in case of saving scraped data).
-math: For mathematical operations (used in some of the area calculations).
