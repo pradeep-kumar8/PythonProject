@@ -37,6 +37,14 @@ This project demonstrates how to use BeautifulSoup (bs4) for web scraping. The s
 ## 4. Samta Assignment
 This part of the project is designed to practice basic problem-solving skills.
 
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ### Calculate Area: A Python program to calculate the area of various geometric shapes such as circles, squares, and rectangles.
 ### Fibonacci Series: A simple program to generate the Fibonacci series up to a given number, demonstrating basic algorithm implementation.
 
